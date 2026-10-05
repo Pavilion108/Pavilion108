@@ -11,9 +11,7 @@ Currently **Executive – Risk Advisory** at **D.Kothary & Co**, Chartered Accou
 ## Selected work
 
 ### Quarterly Audit Reporting Platform
-*Internal audit reporting platform · built at D.Kothary & Co · TypeScript, React, Node, Supabase, Claude AI*
-
-**Live demo: [dkcreportassist.vercel.app](https://dkcreportassist.vercel.app)**
+*Internal audit reporting platform · TypeScript, React, Node, Supabase, Claude AI*
 
 An internal-audit reporting platform that keeps a **live PowerPoint report continuously in draft**, driven by what auditors actually log as they work — so the reporting effort stops being a separate end-of-quarter task.
 
