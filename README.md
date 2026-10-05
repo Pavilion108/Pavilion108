@@ -1,52 +1,49 @@
 # Vighnesh Bagal
 
-**Data Assurance & IT Risk** · Pune, India
+**Forensic Audit & Internal Controls** · **IT Risk & Data Assurance** · Pune, India
 
-I work at the seam between **analytics automation** and **controls testing** — turning messy operational data into something defensible, and testing whether the systems around it are actually controlled.
+Assurance professional working where **audit technique** meets **analytics automation** — testing controls, working the full transaction population instead of a sample, and automating the repetitive analysis that makes that possible.
 
-Currently **Executive – Risk Advisory** at D.Kothary & Co, after roles in site operations (project engineering) and MIS reporting.
-
----
-
-## What I do
-
-| Area | Detail |
-|---|---|
-| **ITGC testing** | Access to programs & data · program change management · computer operations |
-| **Controls assessment** | Workflow mapping, manual vs automated classification, deficiency classification, remediation |
-| **Process automation** | VBA / SQL / Python to replace recurring manual analysis and reporting |
-| **Data quality** | Reconciliation, numeric and cross-sheet validation before release |
-| **Data privacy** | Automated masking and anonymisation of PII ahead of client delivery |
-| **Change governance** | UAT verification and CAB approval review |
-| **OSINT risk intelligence** | Verified corporate contact and exposure dossiers with a documented rejection log |
+Currently **Executive – Risk Advisory** at **D.Kothary & Co**, Chartered Accountants — a 90+ person assurance, transaction-advisory and tax firm. Previously site operations (project engineering) and MIS reporting.
 
 ---
 
 ## Selected work
 
-### [`AuditSamples`](https://github.com/Pavilion108/AuditSamples) · TypeScript
-A multi-step portal that ingests a dataset and **recommends and scores audit methodologies** based on what the data actually contains — so the testing approach follows the evidence rather than a fixed checklist.
+### Quarterly Audit Reporting Platform
+*Internal audit reporting platform · built at D.Kothary & Co · TypeScript, React, Node, Supabase, Claude AI*
 
-### [`AutoMate`](https://github.com/Pavilion108/AutoMate) · Kotlin
-Open-source Android automation app. Geofencing, fused-location tracking and accessibility-based UI automation, with configurable exit detection and weekday scheduling. Shipped to a real site and debugged on-device over ADB.
+**Live demo: [dkcreportassist.vercel.app](https://dkcreportassist.vercel.app)**
 
-### Quarterly Report Assistant · TypeScript
-A reporting platform that keeps a live, continuously-drafted PowerPoint report — daily progress tracking, AI-assisted rewriting of observations into an auditor tone, and manager finalisation with a preserved audit trail.
+An internal-audit reporting platform that keeps a **live PowerPoint report continuously in draft**, driven by what auditors actually log as they work — so the reporting effort stops being a separate end-of-quarter task.
 
-### Corporate Contact Intelligence System · Python
-An OSINT pipeline that builds a **verified multi-company contact database**: source hierarchy (official domain → filings → directory), phone-registry and MX validation, entity matching on address/registration ID, cross-company duplicate prevention, and a written rejection log for every discarded candidate.
+- **Daily tracker** — members log tasks, effort and progress per project; an **observations feed** captures report-worthy points tagged to the quarter's focus areas.
+- **Audit trail by construction** — every observation keeps the original text, the AI-rewritten version, who changed it and when. Only the accepted version flows into the report; the original stays visible.
+- **Auditor-tone AI rewrite** — rewrites a point into a soft, factual, non-accusatory internal-audit voice on demand. Original is always preserved, so the suggestion can be accepted, edited or discarded.
+- **Manager control** — reorder, edit, exclude and regroup points in a report-builder view; finalisation on the due date stamps a **Final** tag and writes an immutable snapshot.
+- **Draft is always available** — any member can download the current draft at any time, not just at quarter close.
+- Role-separated access for IT Admin, Manager (CA) and Members (Auditors).
+
+---
+
+## Practice areas
+
+| Area | Detail |
+|---|---|
+| **Forensic & internal audit** | Transaction-level testing across the full population rather than a limited sample |
+| **ITGC testing** | Access to programs & data · program change management · computer operations |
+| **Controls assessment** | Workflow mapping, manual vs automated classification, deficiency classification, remediation |
+| **Journal entry testing** | Exception analysis and red-flag identification across the ledger |
+| **Data quality & reconciliation** | Numeric and cross-sheet validation before release |
+| **Data privacy** | Automated masking and anonymisation of PII ahead of client delivery |
+| **Change governance** | UAT verification and CAB approval review |
+| **Risk intelligence** | OSINT-based corporate contact and exposure dossiers |
 
 ---
 
 ## Stack
 
-`Kotlin` · `TypeScript` · `Python` · `SQL` · `VBA` · `React` · `Node` · `Power BI`
-
----
-
-## Currently learning
-
-Data science and applied analytics, alongside a **BCA (IGNOU)**.
+`Python` · `SQL` · `VBA` · `TypeScript` · `React` · `Node` · `Power BI` · `Git`
 
 ---
 
